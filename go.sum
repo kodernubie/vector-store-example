@@ -1,0 +1,4 @@
+github.com/kodernubie/go-openai v0.0.0-20240601134843-566397895120 h1:Pck+1VXRyV1xolUx9AL4G+L91aTeJClzet8ShHsgOD0=
+github.com/kodernubie/go-openai v0.0.0-20240601134843-566397895120/go.mod h1:G4W5rNIJff5zsraRGbNWc+RwrUxVO8OxcPjTaq+vhbM=
+github.com/kodernubie/go-openai v0.0.0-20240603095540-81db78844ecb h1:cDZnnXkJKIBVQrepQZwppCRuhXwp1lgzSd9hWx3MjFM=
+github.com/kodernubie/go-openai v0.0.0-20240603095540-81db78844ecb/go.mod h1:G4W5rNIJff5zsraRGbNWc+RwrUxVO8OxcPjTaq+vhbM=

@@ -1,0 +1,25 @@
+Student Results :
+
+1. Name : Amelia
+Grade : A
+Status : Pass
+
+2. Name : Bryan
+Grade : B
+Status : Pass
+
+3. Name : Carlton
+Grade : C
+Status : Pass
+
+4. Name : Daisy
+Grade : D
+Status : Not Pass
+
+5. Name : Edward
+Grade : E
+Status : Not Pass
+
+6. Name : Fanny
+Grade : F
+Status : Not Pass
